@@ -1,0 +1,17 @@
+export const COLORS = {
+    light_text : `#FFFFFF`,
+    dark_text : `#1D1D1D`,
+    light_gray_text : `#BDBDBD`,
+    dark_gray_text : `#999999`,
+    light_bg : `#FFFFFF`,
+    dark_bg : `#1D1D1D`,
+    black_bg : `#000000`,
+    green_line : `#48BE9C`,
+    gray_line : `#999999`,
+    error_line : `#EE6363`,
+    other_light_green : `#48BE9C`,
+    other_dark_green : `#247074`,
+    light_card : `#F4F4F4`,
+    green_gradient_card : `linear-gradient(269.41deg, #45C6A1 0.51%, #179A74 99.5%)`,
+    dark_card : `#000000`,
+}
